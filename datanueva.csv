@@ -1,0 +1,12 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+196,15594815,Aleshire,807,France,Male,35,3,174790.15,1,1,1,600.36,0
+207,15755262,McDonald,608,Spain,Female,41,3,89763.84,1,0,0,199304.74,1
+218,15786308,Millar,730,Spain,Female,33,9,0,2,0,0,176576.62,0
+219,15659366,Shih,807,France,Male,43,1,105799.32,2,1,0,34888.04,1
+233,15787174,Sergeyev,512,France,Female,37,1,0,2,0,1,156105.03,0
+539,15794142,Ferreira,564,Germany,Female,62,5,114931.35,3,0,1,18260.98,1
+941,15754084,Palazzi,710,Spain,Male,35,1,106518.52,1,1,1,127951.81,0
+943,15804586,Lin,376,France,Female,46,6,0,1,1,0,157333.69,1
+3130,15694453,Walker,631,Germany,Male,37,9,131519.49,2,1,1,51752.18,0
+3131,15813113,Chang,795,Spain,Female,56,5,0,1,1,0,35418.69,1
+3132,15614187,Pottinger,648,Germany,Female,39,3,126935.98,2,0,1,57995.74,0
